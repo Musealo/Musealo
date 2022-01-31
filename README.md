@@ -1,5 +1,5 @@
-### Hi there 👋
-Hey it's Dennis 
+
+###Hey it's Dennis  
 I'm currently learning web development 💻
 <!--
 **Musealo/Musealo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
