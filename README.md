@@ -3,8 +3,7 @@
 
 Hello World! 
 
-I am currently a student at Neuefische’s web developement programme. I have always been fascinated by programming and this year I decided to finally take the step to become a web developer and make my dreams come true.
-I am looking forward to a future in a job that is challenging, requires perpetual learning and will help me further develop my skills as a developer. 💻
+I am currently a student at Neuefische’s web developement programme. I have always been fascinated by programming and this year I decided to finally take the step to become a web developer and make my dreams come true 💻
 <!--
 **Musealo/Musealo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
