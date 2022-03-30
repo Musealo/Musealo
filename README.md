@@ -3,7 +3,7 @@
 
 Hello World! 
 
-I am currently a student at Neuefische’s web developement programme. I have always been fascinated by programming and this year I decided to finally take the step to become a web developer and make my dreams come true 💻
+I am currently a student at Neuefische’s web developement program. I have always been fascinated by programming and this year I decided to finally take the step to become a web developer and make my dreams come true 💻
 <!--
 **Musealo/Musealo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
